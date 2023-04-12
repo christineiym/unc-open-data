@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Polaris Maps API Docs
 description: An API for accessible campus route finding.
-baseurl: "/polaris-api-docs" # the subpath of your site, e.g. /blog
-url: "https://polaris-maps.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/unc-open-data" # the subpath of your site, e.g. /blog
+url: "https://christineiym.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 
